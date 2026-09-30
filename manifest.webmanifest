@@ -1,0 +1,13 @@
+{
+  "name": "Oct 1 Review",
+  "short_name": "Oct 1",
+  "start_url": "/study-oct1/#/today",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2F3F5",
+  "theme_color": "#1F4E6B",
+  "icons": [
+    { "src": "/study-oct1/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/study-oct1/icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
