@@ -7,9 +7,13 @@ Every page is encrypted (AES-256-GCM, PBKDF2-SHA256, 400,000 iterations) and
 decrypted in the browser. Without the passphrase there is nothing readable here.
 
 **What's inside:** the Bolos (Reason and Revelation) and Hutton (King David)
-exam guides, a walkthrough of every assigned reading for each course, the Craig
-cross-reference, the Tuesday readings, the flashcards, the quiz bank, the essay
-outlines and the diagrams.
+exam guides, a drill sheet for each course (every fair-game question argued with
+citations, plus ten points on each person, term and author), a walkthrough of
+every assigned reading, the Craig cross-reference, the Tuesday readings, the
+flashcards, the quiz bank, the essay outlines and the diagrams.
+
+Virtue ethics is held back from the cards and quiz bank: Bolos took it off
+Exam 1 on 29 September and moved it to Exam 2.
 
 **How it differs from the live app**
 
